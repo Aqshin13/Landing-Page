@@ -1,0 +1,89 @@
+/* Text */
+
+.text-center {
+    text-align: center;
+}
+
+.heading-small {
+    font-size: 1.25rem;
+}
+
+.heading-medium {
+    font-size: 1.5rem;
+}
+
+.heading-big {
+    font-size: 1.75rem;
+}
+
+
+/* Buttons */
+
+.btn {
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 6px;
+    letter-spacing: 1px;
+}
+
+.btn-primary {
+    background-color: #336ea2;
+}
+
+.btn-primary:hover {
+    opacity: 0.7;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+
+/* Colors */
+
+.bg-dark-blue {
+    background: #062e51;
+}
+
+.bg-light-blue {
+    background: #336ea2;
+}
+
+
+/* container */
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.course {
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 0px 1px 0px 0px gray;
+    box-shadow: 0px 1px 0px 0px gray;
+}
+
+.course:hover {
+    box-shadow: 0px 1px 5px 2px gray;
+    box-shadow: 0px 1px 5px 2px gray;
+}
+
+
+/* Forms */
+
+.form-group {
+    padding: 0.25rem 0;
+}
+
+.form-group label {
+    display: block;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    resize: none;
+}
